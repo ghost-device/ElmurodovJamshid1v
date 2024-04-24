@@ -13,3 +13,13 @@
     va undan foydalanish afzalligi agarda biz model imiz fieldini type ni String deb bersak u hohlagan String ini
     kiritishi mumkin bu esa biz uchun yomon, enum qilsak uni type ni cheklangan ma'lumotlarnigina kirita oladi
 
+4 - savol
+        Throwbale
+            |
+        ----------
+        |        |
+    Exception   Error
+        |
+    ---------
+    |       |
+Runtime   Compiletime
