@@ -1,0 +1,25 @@
+1 - Savol
+    Queue - bu navbat degan ma'noni anglatadi va FIFO prinsipi asosida ishlaydi. Unda faqat elementlarni
+    orqasidan qo'shib boshidan olinadi. Deque ham Queue ga o'xshash lekin unda ikki tarafdan ham elemntlarni
+    qo'shish va olish imkoniyati bor.
+
+2 - savol
+    HashMap ma'lumotlar ni saqlash tartibi quyidagicha
+        1 - Kirib kelayotgan ma'lumotni key ini array uzunligiga % bo'ladi va index ni aniqlaydi
+        2 - va o'sha index da ma'lumot bo'lmasa o'sha yerga qo'yadi, agar bo'lsa uning next iga qo'yadi
+
+3 - savol
+    Enum - oldindan ma'lum bo'lgan va o'zgarmas type
+    va undan foydalanish afzalligi agarda biz model imiz fieldini type ni String deb bersak u hohlagan String ini
+    kiritishi mumkin bu esa biz uchun yomon, enum qilsak uni type ni cheklangan ma'lumotlarnigina kirita oladi
+
+4 - savol
+        Throwbale
+            |
+        ----------
+        |        |
+    Exception   Error
+        |
+    ---------
+    |       |
+Runtime   Compiletime
