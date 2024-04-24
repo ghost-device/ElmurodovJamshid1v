@@ -1,0 +1,4 @@
+1 - Savol
+    Queue - bu navbat degan ma'noni anglatadi va FIFO prinsipi asosida ishlaydi. Unda faqat elementlarni
+    orqasidan qo'shib boshidan olinadi. Deque ham Queue ga o'xshash lekin unda ikki tarafdan ham elemntlarni
+    qo'shish va olish imkoniyati bor.
